@@ -40,9 +40,14 @@ h2 {
 }
 
 h3 {
+  color: #87CEFA;
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+}
+
+#subtitle {
+  color: white;
 }
 
 img {
